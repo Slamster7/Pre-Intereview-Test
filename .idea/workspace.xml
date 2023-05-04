@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d21cc9c0-105f-4863-8d56-cfb3154e0080" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/money-gaming/features/Registration/registration.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/money-gaming/source/test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/money-gaming/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/money-gaming/src/test/java/com/gameaccount/TestEnvRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing-commons/src/main/java/com/gameaccount/MoneyGamingTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MoneyGaming/Features/Registration/registration.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pre-Interview-Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Pre-Interview-Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/money-gaming/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/money-gaming/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing-commons/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing-commons/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing-commons/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +29,7 @@
       <list>
         <option value="package-info" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -39,32 +47,69 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "jdk.selected.JAVA_MODULE": "temurin-11",
-    "last_opened_file_path": "C:/Automation Projects/Pre-Interview-Test/money-gaming/source/test",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "last_opened_file_path": "C:/Automation Projects/Pre-Interview-Test/money-gaming/src/test/java/com/gameaccount",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.27126437",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Automation Projects\Pre-Interview-Test\money-gaming\source\test" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Automation Projects\Pre-Interview-Test" />
+      <recent name="C:\Automation Projects\Pre-Interview-Test\money-gaming" />
+      <recent name="C:\Automation Projects\Pre-Interview-Test\money-gaming\source\test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.gameaccount" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MoneyGamingTestsRunner">
     <configuration name="MoneyGamingTestsRunner" type="JUnit" factoryName="JUnit">
-      <module name="Pre-Interview-Test" />
+      <module name="testing-commons" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="ALTERNATIVE_JRE_PATH" value="temurin-11" />
+      <option name="PACKAGE_NAME" value="com.gameaccount" />
+      <option name="MAIN_CLASS_NAME" value="com.gameaccount.MoneyGamingTestRunner" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test Environment Test Runs" type="JUnit" factoryName="JUnit">
+      <module name="money-gaming" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-11" />
+      <option name="PACKAGE_NAME" value="com.gameaccount" />
+      <option name="MAIN_CLASS_NAME" value="com.gameaccount.TestEnvRunner" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <dir value="$PROJECT_DIR$/money-gaming/src/test/java/com/gameaccount" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MoneyGamingTestsRunner" />
+      <item itemvalue="JUnit.Test Environment Test Runs" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
