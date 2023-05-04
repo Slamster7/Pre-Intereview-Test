@@ -10,6 +10,7 @@ Feature: Registration
     Given the casino website is opened
     And the Sign Up popup is opened
 
+  @Test
   Scenario: Successful player registration
     When the player completes the Sign Up form with "valid data"
     Then the player is successfully logged into the website
@@ -20,5 +21,5 @@ Feature: Registration
 
     Examples:
       | scenario            | validation_message     |
-      | empty date of birth | This field is required
+      | empty date of birth | This field is required |
 

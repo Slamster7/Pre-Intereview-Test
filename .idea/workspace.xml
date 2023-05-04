@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d21cc9c0-105f-4863-8d56-cfb3154e0080" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/money-gaming/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/money-gaming/src/test/java/com/gameaccount/TestEnvRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing-commons/src/main/java/com/gameaccount/MoneyGamingTestRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pre-Interview-Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Pre-Interview-Test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/money-gaming/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/money-gaming/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing-commons/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testing-commons/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing-commons/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/money-gaming/features/Registration/registration.feature" beforeDir="false" afterPath="$PROJECT_DIR$/money-gaming/features/Registration/registration.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/money-gaming/target/test-classes/com/gameaccount/TestEnvRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/money-gaming/target/test-classes/com/gameaccount/TestEnvRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing-commons/src/main/java/com/gameaccount/MoneyGamingTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/testing-commons/src/main/java/com/gameaccount/MoneyGamingTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing-commons/target/classes/com/gameaccount/MoneyGamingTestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/testing-commons/target/classes/com/gameaccount/MoneyGamingTestRunner.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +73,7 @@
       <recent name="com.gameaccount" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MoneyGamingTestsRunner">
+  <component name="RunManager" selected="JUnit.Test Environment Test Runs">
     <configuration name="MoneyGamingTestsRunner" type="JUnit" factoryName="JUnit">
       <module name="testing-commons" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -89,6 +82,7 @@
       <option name="MAIN_CLASS_NAME" value="com.gameaccount.MoneyGamingTestRunner" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Dcucumber.options=&quot;--tags @Test&quot;" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,6 +95,7 @@
       <option name="MAIN_CLASS_NAME" value="com.gameaccount.TestEnvRunner" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea -Dcucumber.options=&quot;--tags @Test&quot;" />
       <dir value="$PROJECT_DIR$/money-gaming/src/test/java/com/gameaccount" />
       <method v="2">
         <option name="Make" enabled="true" />
